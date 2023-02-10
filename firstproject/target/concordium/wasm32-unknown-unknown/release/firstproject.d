@@ -1,0 +1,1 @@
+/Users/herdishaerusalam/concordium_hack/concordium_hack_task2/firstproject/target/concordium/wasm32-unknown-unknown/release/firstproject.wasm: /Users/herdishaerusalam/concordium_hack/concordium_hack_task2/firstproject/src/lib.rs
